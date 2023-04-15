@@ -50,3 +50,11 @@ int second_from_end_digit() {
     cout << (a / 10) % 10;
     return 0;
 }
+
+/* Дано целое трехзначное число. Найдите сумму его цифр. */
+int sum_ciphr() {
+    int a = 0;
+    cin >> a;
+    cout << (a % 10) + (a / 100) + ((a / 10) % 10);
+    return 0;
+}

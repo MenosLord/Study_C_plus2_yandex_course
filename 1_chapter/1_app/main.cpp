@@ -4,6 +4,6 @@
 
 int main()
 {
-	second_from_end_digit();
+	sum_ciphr();
 	return 0;
 }
