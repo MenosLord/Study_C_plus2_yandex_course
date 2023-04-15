@@ -4,6 +4,6 @@
 
 int main()
 {
-	sum_ciphr();
+	next_chet();
 	return 0;
 }
