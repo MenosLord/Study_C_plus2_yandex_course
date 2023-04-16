@@ -4,6 +4,7 @@
 
 int main()
 {
-	next_chet();
+	
+	school_parts();
 	return 0;
 }
