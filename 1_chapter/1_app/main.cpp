@@ -4,6 +4,6 @@
 
 int main()
 {
-	differ_time();
+	circle_route();
 	return 0;
 }
