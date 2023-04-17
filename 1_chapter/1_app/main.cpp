@@ -4,6 +4,6 @@
 
 int main()
 {
-	circle_route();
+	mirror_number();
 	return 0;
 }
