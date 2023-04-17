@@ -4,6 +4,6 @@
 
 int main()
 {
-	date_format();
+	differ_time();
 	return 0;
 }
