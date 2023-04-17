@@ -4,6 +4,6 @@
 
 int main()
 {
-	rub_copeek();
+	date_format();
 	return 0;
 }
