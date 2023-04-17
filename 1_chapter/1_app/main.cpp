@@ -4,7 +4,6 @@
 
 int main()
 {
-	
-	school_parts();
+	rub_copeek();
 	return 0;
 }

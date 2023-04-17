@@ -77,3 +77,12 @@ int school_parts() {
     cout << (a / 2 + a % 2) + (b / 2 + b % 2) + (c / 2 + c % 2);
     return 0;
 }
+
+int rub_copeek() {
+    int a = 0, b = 0, N = 0;
+    cin >> a >> b >> N;
+    int rub = a * N + (b * N) / 100;
+
+    cout << rub << " " << (b * N) % 100;
+    return 0;
+}
