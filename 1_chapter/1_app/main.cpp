@@ -4,6 +4,6 @@
 
 int main()
 {
-	mirror_number();
+	snail_high();
 	return 0;
 }
