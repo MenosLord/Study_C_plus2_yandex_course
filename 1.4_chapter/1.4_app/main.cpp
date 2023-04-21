@@ -3,6 +3,6 @@
 
 
 int main() {
-	find_coincidences();
+	chess_rook();
 	return 0;
 }
