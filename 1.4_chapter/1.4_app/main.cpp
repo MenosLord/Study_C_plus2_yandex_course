@@ -3,6 +3,6 @@
 
 
 int main() {
-	that_more_3();
+	existence_triangle();
 	return 0;
 }
