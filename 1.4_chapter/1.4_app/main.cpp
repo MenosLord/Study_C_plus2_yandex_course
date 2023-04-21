@@ -3,6 +3,6 @@
 
 
 int main() {
-	that_more_2();
+	that_more_3();
 	return 0;
 }
