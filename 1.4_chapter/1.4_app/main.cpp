@@ -3,6 +3,6 @@
 
 
 int main() {
-	existence_triangle();
+	find_coincidences();
 	return 0;
 }
