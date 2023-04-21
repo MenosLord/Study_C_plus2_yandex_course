@@ -3,6 +3,6 @@
 
 
 int main() {
-	chess_king();
+	chess_bishop();
 	return 0;
 }
