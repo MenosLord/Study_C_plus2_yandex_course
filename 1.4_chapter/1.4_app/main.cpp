@@ -3,6 +3,6 @@
 
 
 int main() {
-	chess_rook();
+	chess_king();
 	return 0;
 }
