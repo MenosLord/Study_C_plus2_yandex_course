@@ -23,6 +23,9 @@ int that_more_2() {
     if (a > b) {
         cout << "1";
     }
+    else if (a == b) {
+        cout << "0";
+    }
     else {
         cout << "2";
     }
